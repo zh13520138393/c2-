@@ -1,0 +1,23 @@
+{
+  "name": "c2-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zh13520138393/c2-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zh13520138393/c2-/issues"
+  },
+  "homepage": "https://github.com/zh13520138393/c2-#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5"
+  }
+}
